@@ -6,7 +6,7 @@
     },
     {
       "name":"vue-typescript-webpack4",
-      "url":"github:WXQ2017/vue-typescript-webpack4.git",
+      "url":"github:WXQ2017/vue-typescript-webpack4",
       "description":"基于webpack4构建的vue项目模板"
     }
 ]
