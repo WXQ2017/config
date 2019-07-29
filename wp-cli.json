@@ -5,8 +5,8 @@
       "description":"基于webpack4构建的react项目模板"
     },
     {
-      "name":"vue-webpack-pc",
-      "url":"github:WXQ2017/vue-typescript-webpack4",
+      "name":"vue-typescript-webpack4",
+      "url":"github:WXQ2017/vue-typescript-webpack4.git",
       "description":"基于webpack4构建的vue项目模板"
     }
 ]
