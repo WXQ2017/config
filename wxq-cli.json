@@ -8,5 +8,10 @@
       "name":"vue-typescript-webpack4",
       "url":"github:WXQ2017/vue-typescript-webpack4",
       "description":"基于webpack4构建的vue项目模板"
+    },
+    {
+      "name":"wenbin-react-template",
+      "url":"github:bin1212/react-ts",
+      "description":"wenbin基于webpack4构建的react项目模板"
     }
 ]
