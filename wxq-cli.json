@@ -16,7 +16,7 @@
     },
     {
       "name":"vue3-vite-temp",
-      "url":"github:WXQ2017/vue3-vite-temp",
+      "url":"https://@github.com.cnpmjs.org/vue3-vite-temp.git",
       "description":"基于vite构建的vue3项目模板"
     }
 ]
