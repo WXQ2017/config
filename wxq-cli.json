@@ -10,8 +10,13 @@
       "description":"基于webpack4构建的vue项目模板"
     },
     {
-      "name":"wenbin-react-template",
-      "url":"github:bin1212/react-ts",
-      "description":"wenbin基于webpack4构建的react项目模板"
+      "name":"vite-vue2-temp",
+      "url":"github:WXQ2017/vite-vue2-temp",
+      "description":"基于vite构建的vue2项目模板"
+    }，
+    {
+      "name":"vue3-vite-temp",
+      "url":"github:WXQ2017/vue3-vite-temp",
+      "description":"基于vite构建的vue3项目模板"
     }
 ]
