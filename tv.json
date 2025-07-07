@@ -1,0 +1,16 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "💚果果优选仓🍭热门推荐🍭",
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/WXQ2017/config/master/tv.json"
+        },
+        {
+            "sourceName": "💛果果聚合仓🍭聚合全网🍭",
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/WXQ2017/config/master/tv-port.json"
+        },
+        {
+            "sourceName": "💜果果🍭测试更新🍭",
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/WXQ2017/config/master/wxq-cli.json"
+        }
+    ]
+}
